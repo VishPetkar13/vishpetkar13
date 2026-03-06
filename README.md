@@ -19,9 +19,9 @@ My background spans **Major Incident Management**, **Problem Management**, and *
 
 I have a strong foundation in **Python programming** and enjoy using it to automate data extraction, processing, and reporting workflows. I've built automation solutions that significantly reduced manual effort, improved reporting accuracy, and accelerated stakeholder decision-making — cutting weekly report generation time by **75%** and eliminating manual effort for **14–16 team members** across critical reporting functions.
 
-I bring solid experience in **Linux/Unix systems administration**, **root cause analysis**, **SQL/PostgreSQL**, and **ETL workflows**, and I'm actively growing my knowledge in **data engineering**, **machine learning**, and **generative AI**.
+I bring solid experience in **Root Cause Analysis**, **SQL/PostgreSQL**, and **ETL workflows**, and I'm actively growing my knowledge in **Data Engineering**, **Machine Learning**, and **Generative AI**.
 
-I'm **ITIL V3 certified** and comfortable operating in high-pressure, 24×7 environments. I value clear communication, structured problem-solving, and turning messy operational data into actionable insights.
+I'm **ITIL V3 certified** and comfortable operating in high-pressure environments. I value clear communication, structured problem-solving, and turning messy operational data into actionable insights.
 
 - 🌍 Based in **Dublin, Ireland**
 - 🎯 Open to **Data Engineer** and **Data Analyst** roles
@@ -123,13 +123,18 @@ Repository of SQL scripts covering core to advanced querying concepts including 
 
 ---
 
-### 🔬 MSc Thesis Project *(Coming Soon)*
+### 🔬 [Exoplanet Detection — Ensemble Machine Learning](https://github.com/VishPetkar13/Exoplanet-Detection-Ensemble-ML)
 
-> Machine Learning / Data Analytics research project — currently being prepared for upload with full documentation.
+> MSc thesis project — detecting exoplanets from stellar light curves using an ensemble of CNN, K-NN, and Random Forest models.
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
+Trained and evaluated four ML models (CNN, Random Forest, K-NN, SVM) on light curve images from NASA's Kepler, K2, and TESS missions. The best-performing ensemble (CNN + K-NN + RF) achieved an F1 score of 0.68 and recall of 0.70 on unseen test data. Awarded First-Class Honours.
+
+**Key Skills Demonstrated:** Python · TensorFlow · Scikit-learn · CNN · Ensemble Learning · Computer Vision · EDA · NASA Exoplanet Archive
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
