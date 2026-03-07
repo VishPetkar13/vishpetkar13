@@ -146,6 +146,44 @@ Trained and evaluated four ML models (CNN, Random Forest, K-NN, SVM) on light cu
 
 ---
 
+## 📄 Research & Publications
+
+### 🎓 Bachelor's Thesis
+**Real Time Air Pollution Monitoring System**
+New Horizon College of Engineering, Bangalore · May 2017
+
+> An IoT-based system for real-time detection and monitoring of atmospheric pollutants (CO2, CO, LPG, Smoke, Methane) using Arduino UNO R3 with MQ135, MQ2, and DHT11 sensors. Data was transmitted to a web portal and Android devices, with analysis of the correlation between CO2 concentration and ambient temperature.
+
+**Tech Stack:** Arduino · IoT · Sensors · HTML · CSS · Bootstrap · Android
+
+---
+
+### 📰 Published Research Papers
+
+**"Real Time Monitoring of Change in Temperature with CO2 using IoT"**
+*International Journal of Innovative Research in Computer and Communication Engineering (IJIRCCE)*
+Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505205 · Certificate No: V5I5C425
+
+[![DOI](https://img.shields.io/badge/DOI-10.15680%2FIJIRCCE.2017.0505205-blue?style=flat)](https://doi.org/10.15680/IJIRCCE.2017.0505205)
+[![IJIRCCE](https://img.shields.io/badge/IJIRCCE-Vol.5%20Issue.5-green?style=flat)](https://www.ijircce.com)
+![Impact Factor](https://img.shields.io/badge/Impact%20Factor-6.577-orange?style=flat)
+
+> Investigated the real-time relationship between CO2 concentration and temperature using IoT sensors deployed in Bangalore. Demonstrated a measurable positive correlation between rising CO2 levels (591–655 ppm) and ambient temperature across 20 field measurements.
+
+---
+
+**"A Technical Review on Health Monitoring System at Household Using IoT"**
+*International Journal of Innovative Research in Computer and Communication Engineering (IJIRCCE)*
+Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505176 · Certificate No: V5I5C377
+
+[![DOI](https://img.shields.io/badge/DOI-10.15680%2FIJIRCCE.2017.0505176-blue?style=flat)](https://doi.org/10.15680/IJIRCCE.2017.0505176)
+[![IJIRCCE](https://img.shields.io/badge/IJIRCCE-Vol.5%20Issue.5-green?style=flat)](https://www.ijircce.com)
+![Impact Factor](https://img.shields.io/badge/Impact%20Factor-6.577-orange?style=flat)
+
+> A technical review of IoT-based ubiquitous health monitoring using smart household devices (Smart Mouse, Mirror, Chair) to measure vital signs including heart rate, temperature, blood pressure, and respiratory rate, with output delivered via web portal and Windows mobile application.
+
+---
+
 ## 📜 Certifications
 
 | Certificate | Issuer | Date | Credential |
