@@ -216,15 +216,13 @@ Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505176 · Certificate N
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishPetkar13&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Vishal's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishPetkar13&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Vishal's GitHub Stats" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishPetkar13&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishPetkar13&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishPetkar13&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VishPetkar13&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
