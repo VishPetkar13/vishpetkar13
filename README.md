@@ -236,6 +236,6 @@ Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505176 · Certificate N
 ---
 
 <p align="center">
-  <i>Open to Data Engineer and Data Analyst opportunities in Ireland and remotely. Feel free to connect!</i><br/><br/>
+  <i>Open to Data Engineer and Data Analyst opportunities in Ireland, India and remotely. Feel free to connect!</i><br/><br/>
   <a href="mailto:vishpetkar13@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-vishpetkar13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
