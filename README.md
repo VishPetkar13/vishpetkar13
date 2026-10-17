@@ -6,14 +6,14 @@
   <a href="mailto:vishpetkar13@gmail.com"><img src="https://img.shields.io/badge/Gmail-vishpetkar13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/vishalpetkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-vishalpetkar-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/VishPetkar13" target="_blank"><img src="https://img.shields.io/badge/GitHub-VishPetkar13-181717?style=flat&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-009B77?style=flat&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-009B77?style=flat&logo=google-maps&logoColor=white" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-I'm a Data Analytics professional with a **First-Class Honours MSc in Data Analytics (Machine Learning)** from the National College of Ireland, and over **4.5 years of hands-on experience** in global enterprise IT environments at Capgemini Technology Services.
+I'm a Data Analytics professional with a **First-Class Honours MSc in Data Analytics (Machine Learning)** from the National College of Ireland, with about **5 years of hands-on experience** in global enterprise IT environments at Capgemini Technology Services.
 
 My background spans **Major Incident Management**, **Problem Management**, and **Automation Engineering** within IT Service Management, working closely with distributed technical teams across multiple regions and time zones to improve system reliability, service performance, and operational efficiency.
 
@@ -23,10 +23,11 @@ I bring solid experience in **Root Cause Analysis**, **SQL/PostgreSQL**, and **E
 
 I'm **ITIL V3 certified** and comfortable operating in high-pressure environments. I value clear communication, structured problem-solving, and turning messy operational data into actionable insights.
 
-- 🌍 Based in **Dublin, Ireland**
+- 🌍 Based in **Bangalore, India**
+- 🎓 **MSc in Data Analytics (First-Class Honours)**, National College of Ireland, Dublin
 - 🎯 Open to **Data Engineer** and **Data Analyst** roles
-- 👥 Looking to collaborate on **data, analytics, and automation projects**
-- 📚 Currently self-studying **cloud data platforms** and **AI/ML pipelines**
+- 🛠️ Building **end-to-end data pipelines** and writing about what I learn along the way
+- 📚 Preparing for the **Databricks Data Engineer Associate** and **Google Cloud Associate Data Practitioner** certifications
 - 💬 Fun fact: I enjoy reading **Sci-fi and Fantasy fiction**
 
 ---
@@ -138,14 +139,6 @@ Trained and evaluated four ML models (CNN, Random Forest, K-NN, SVM) on light cu
 
 ---
 
-### ⚙️ More Projects *(Coming Soon)*
-
-> Additional projects currently in the pipeline — watch this space!
-
-![Status](https://img.shields.io/badge/Status-Coming%20Soon-blue?style=flat)
-
----
-
 ## 📄 Research & Publications
 
 ### 🎓 Bachelor's Thesis
@@ -166,7 +159,7 @@ Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505205 · Certificate N
 
 [![DOI](https://img.shields.io/badge/DOI-10.15680%2FIJIRCCE.2017.0505205-blue?style=flat)](https://doi.org/10.15680/IJIRCCE.2017.0505205)
 [![IJIRCCE](https://img.shields.io/badge/IJIRCCE-Vol.5%20Issue.5-green?style=flat)](https://www.ijircce.com)
-![Impact Factor](https://img.shields.io/badge/Impact%20Factor-6.577-orange?style=flat)
+
 
 > Investigated the real-time relationship between CO2 concentration and temperature using IoT sensors deployed in Bangalore. Demonstrated a measurable positive correlation between rising CO2 levels (591–655 ppm) and ambient temperature across 20 field measurements.
 
@@ -178,7 +171,7 @@ Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505176 · Certificate N
 
 [![DOI](https://img.shields.io/badge/DOI-10.15680%2FIJIRCCE.2017.0505176-blue?style=flat)](https://doi.org/10.15680/IJIRCCE.2017.0505176)
 [![IJIRCCE](https://img.shields.io/badge/IJIRCCE-Vol.5%20Issue.5-green?style=flat)](https://www.ijircce.com)
-![Impact Factor](https://img.shields.io/badge/Impact%20Factor-6.577-orange?style=flat)
+
 
 > A technical review of IoT-based ubiquitous health monitoring using smart household devices (Smart Mouse, Mirror, Chair) to measure vital signs including heart rate, temperature, blood pressure, and respiratory rate, with output delivered via web portal and Windows mobile application.
 
@@ -189,7 +182,6 @@ Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505176 · Certificate N
 | Certificate | Issuer | Date | Credential |
 |---|---|---|---|
 | Master SQL For Data Science | Udemy | Jul 2025 | [UC-5ae0b748](https://www.udemy.com/certificate/UC-5ae0b748-da15-4556-b3a2-2ad058da6ad2/) |
-| Python Game Development with Pygame | Udemy | Jul 2022 | [UC-b9580b67](https://www.udemy.com/certificate/UC-b9580b67-be46-4ad4-85b8-5381f8cfc549/) |
 | Crash Course on Python | Coursera | Jan 2022 | [ECYCNGZTBFVZ](https://www.coursera.org/verify/ECYCNGZTBFVZ) |
 | Ask Questions to Make Data-Driven Decisions | Coursera | Jul 2021 | [BGXBEJMHR6N5](https://www.coursera.org/verify/BGXBEJMHR6N5) |
 | Foundations: Data, Data, Everywhere! | Coursera | Jul 2021 | [EJQFYZAUDKYP](https://www.coursera.org/verify/EJQFYZAUDKYP) |
@@ -215,18 +207,6 @@ Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505176 · Certificate N
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishPetkar13&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Vishal's GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishPetkar13&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VishPetkar13&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Languages
 
 ![English](https://img.shields.io/badge/English-Native%20%2F%20Fluent-2E8B57?style=flat)
@@ -236,6 +216,6 @@ Vol. 5, Issue 5, May 2017 · DOI: 10.15680/IJIRCCE.2017.0505176 · Certificate N
 ---
 
 <p align="center">
-  <i>Open to Data Engineer and Data Analyst opportunities in Ireland, India and remotely. Feel free to connect!</i><br/><br/>
+  <i>Open to Data Engineer and Data Analyst opportunities in India and remotely. Feel free to connect!</i><br/><br/>
   <a href="mailto:vishpetkar13@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-vishpetkar13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
