@@ -3,10 +3,11 @@
 <h3 align="center">Data Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Python Automation Engineer</h3>
 
 <p align="center">
-  <a href="mailto:vishpetkar13@gmail.com"><img src="https://img.shields.io/badge/Gmail-vishpetkar13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vishalpetkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-vishalpetkar-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/VishPetkar13" target="_blank"><img src="https://img.shields.io/badge/GitHub-VishPetkar13-181717?style=flat&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-009B77?style=flat&logo=google-maps&logoColor=white" />
+  <a href="mailto:vishpetkar13@gmail.com"><img alt="Email: vishpetkar13@gmail.com" src="https://img.shields.io/badge/Gmail-vishpetkar13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vishalpetkar" target="_blank"><img alt="LinkedIn: vishalpetkar" src="https://img.shields.io/badge/LinkedIn-vishalpetkar-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/VishPetkar13" target="_blank"><img alt="GitHub: VishPetkar13" src="https://img.shields.io/badge/GitHub-VishPetkar13-181717?style=flat&logo=github&logoColor=white" /></a>
+  <img alt="Location: Bangalore, India" src="https://img.shields.io/badge/Location-Bangalore%2C%20India-009B77?style=flat&logo=google-maps&logoColor=white" />
+  <a href="https://vishpetkar13.github.io/" target="_blank"><img alt="Blog: Data Field Notes" src="https://img.shields.io/badge/Blog-Data%20Field%20Notes-FF4088?style=flat&logo=hugo&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,7 +28,7 @@ I'm **ITIL V3 certified** and comfortable operating in high-pressure environment
 - 🎓 **MSc in Data Analytics (First-Class Honours)**, National College of Ireland, Dublin
 - 🎯 Open to **Data Engineer** and **Data Analyst** roles
 - 🛠️ Building **end-to-end data pipelines** and writing about what I learn along the way
-- 📚 Preparing for the **Databricks Data Engineer Associate** and **Google Cloud Associate Data Practitioner** certifications
+- 📚 Currently learning **data engineering** and **cloud data platforms**
 - 💬 Fun fact: I enjoy reading **Sci-fi and Fantasy fiction**
 
 ---
